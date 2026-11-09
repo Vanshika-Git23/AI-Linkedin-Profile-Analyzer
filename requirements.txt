@@ -1,4 +1,5 @@
 
-streamlit
+
+google-adk
 pypdf
-google-genai
+
